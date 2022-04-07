@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cosmeticTitle" type="id" />
+    <item name="cosmeticDate" type="id" />
+    <item name="cosmeticPrice" type="id" />
+</resources>

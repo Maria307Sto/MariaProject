@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MariaShop</string>
+    <string name="sales_icon">Sales</string>
+    <string name="naimen_icon">Name</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="contacts_text1">Контакты:</string>
+    <string name="pro_text">О нас</string>
+    <string name="glav_text">Главная</string>
+    <string name="logo_of_app1">Maria</string>
+    <string name="logo_of_app2">Cosmetics</string>
+    <string name="price">Цена:</string>
+    <string name="Maria">Разработчик Мария Стоянова. \nСтудент группы 49ПИ. 2022 г. \nТел: 89194306031</string>
+    <string name="well">Проверили работу Клёсов Д.Н.,\n Семернина М.А.</string>
+    <string name="logo_price">630 руб.</string>
+    <string name="logo_namer">Увлажнение кожи</string>
+    <string name="logo_namer1">LE SOIN NOIR\nЛЕГКИЙ КРЕМ\nНЕВЕСОМЫЙ КРЕМ ДЛЯ УПРУГОСТИ КОЖИ</string>
+    <string name="logo_namer2">Магазин косметики Марии Стояновой– это не только высокопрофессиональные услуги, но и уютный салон, в котором всегда рады гостям. Безупречность в работе и творческий подход, внимательные мастера учтут и воплотят все Ваши пожелания. Магазин предлагает широкий спектр услуг: модельные женские и креативные мужские стрижки, свадебные, вечерние причёски, укладки, маникюр, педикюр, дизайн, наращивание ногтей. Пусть Ваш путь к красоте и совершенству будет лёгким. С искренней любовью мы дарим Вам приятный сюрприз – вместе со стрижкой Вам сделают коррекцию и покраску бровей в подарок! Ждём Вас по адресу: ул. Щорса, 6, вход со двора. Тел. 5-07-58.</string>
+</resources>
